@@ -1,1 +1,3 @@
-
+预定方法 设定CNN，
+metrics MSE，KL divergence
+top 10%数据，70% train，30% test
